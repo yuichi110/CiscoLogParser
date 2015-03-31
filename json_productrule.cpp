@@ -1,4 +1,4 @@
-#include "json_productRule.h"
+#include "json_productrule.h"
 
 ProductRule::ProductRule(int majorVersion, int minorVersion, QString product,
                        QList<QString> *groupList, QMap<QString, QList<QString> > *groupRegexMap, QMap<QString, QList<QString> > *groupHighlightMap,
